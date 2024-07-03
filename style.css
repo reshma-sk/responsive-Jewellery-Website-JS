@@ -107,7 +107,7 @@ section{
     z-index: 1000;
     background: rgba(0, 0, 0, 0.5);
     animation: fadeIn .5s ease;
-    -webkit-animation:;
+    
 }
 
 .modal .container{
